@@ -1,0 +1,60 @@
+git y github son herramientas generalmente usadas por desarrolladores de software y programadores creativos
+git es un software de control de versiones que tambien puede incluir colaboraciones
+github es un sitio web en el cual se realizan proyectos que son administrados por git o que possen un control de versiones
+un repositorio es donde se guardan los proyectos, hay commit new file y commit changes
+hash es un identificador de un commit algo asi como un curp
+branching: son ramas para un posible cambio en el archivo, son ideas que van surguiendo y no quieres que se olviden
+pull request: es una peticion que el propietario de un fork de un repositiorio hace al propietario del repositorio original para que este ultimo agregue los commits que hay en el fork
+marge: es la confirmacion o fusion de las modificaciones hehcas en el fork
+lenguajes mas usados son: java script, python, java, ruby, php, c++
+
+un fork es la copia identica de un repositorio original
+
+Los issues:
+No es un concepto de git como lo son los reposigorios, braches, etc
+Es una caracteristica que esta agregada a github
+se puede hacer un issues asi mismo o a otras personas 
+Basicamente es una lugar desitando a comentarios acerca de un proyecto
+markdown se usa para agregar imagenes
+un issues abierto es cuando aun no se ha resuelto
+un issues cerrado es cuando ya se corrigio
+cualquiera puede abrir un issues en un repositoerio
+
+Bash o terminal: es un interprete de comandos que ejecutan tareas especificas dentro del sistema operativo
+comando:
+ls:hace una lista de los archivos dentor de un directorio}
+cd: cambia de directorio
+cd.. regreesa un directorio atras 
+pwd: muestra el directorio actual
+editor de codigos:
+visual studio code
+brackets 
+sublime text
+git commit a: guarda en repositorio local
+git commit config --list: verifica la informacion
+gitt log: muestra los commits hechos
+push: cambio a la nube
+pull: cambios a la compu
+
+mkdir: hace dircotrios
+rmdir: elimina directorios solo si esta vacia
+cp: copia archivos o directorios
+rm: elimina archivos o directorios
+toutch: archivo nuevo
+cat: muestra contendio del archivo
+Pasos para hacer un push : 
+1. Del workspace agregar un archivo al index
+2. Del index hacer un commit al repositorio
+3. Del repositorio hacer un push al remoto
+
+El creador de MATLAB cleve Moler, diseño paquetes mas sencillos para aquellos que no estaban tan adentrados a la progrmacion
+En 1981 habia 80 funciones en matlab
+entre las aplicaciones estan:
+procesamiento de imagenes
+biologia
+machine leaerning
+robotica
+contiene funciones para visualizar
+datos 
+importar imagenes
+hacer descomposicion lu
