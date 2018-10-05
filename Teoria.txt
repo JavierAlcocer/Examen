@@ -58,3 +58,5 @@ contiene funciones para visualizar
 datos 
 importar imagenes
 hacer descomposicion lu
+
+jeje
